@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vajin/OneDrive/Desktop/mlopps/mlruns/807468430014565258/03230a99057947ffaa3db6a1a1bb7dc0/artifacts
+end_time: 1794994337460
+entry_point_name: ''
+experiment_id: '807468430014565258'
+lifecycle_stage: active
+run_id: 03230a99057947ffaa3db6a1a1bb7dc0
+run_name: linear_regression
+run_uuid: 03230a99057947ffaa3db6a1a1bb7dc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794994337057
+status: 3
+tags: []
+user_id: vajin

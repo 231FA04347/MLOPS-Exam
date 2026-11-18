@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vajin/OneDrive/Desktop/mlopps/mlruns/807468430014565258/aa7a8d1c4df64eb682ce4cf287d3534f/artifacts
+end_time: 1794994382142
+entry_point_name: ''
+experiment_id: '807468430014565258'
+lifecycle_stage: active
+run_id: aa7a8d1c4df64eb682ce4cf287d3534f
+run_name: registered_random_forest
+run_uuid: aa7a8d1c4df64eb682ce4cf287d3534f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794994340200
+status: 3
+tags: []
+user_id: vajin

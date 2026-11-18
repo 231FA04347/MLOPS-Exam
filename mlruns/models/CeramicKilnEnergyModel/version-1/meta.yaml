@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1794991931556
+current_stage: None
+description: null
+last_updated_timestamp: 1794991931556
+name: CeramicKilnEnergyModel
+run_id: 5c2ef8600f3640d5892d3af2f23a7d4e
+run_link: null
+source: file:///C:/Users/vajin/OneDrive/Desktop/mlopps/mlruns/807468430014565258/5c2ef8600f3640d5892d3af2f23a7d4e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/vajin/OneDrive/Desktop/mlopps/mlruns/807468430014565258/5c2ef8600f3640d5892d3af2f23a7d4e/artifacts/model
+user_id: null
+version: 1
